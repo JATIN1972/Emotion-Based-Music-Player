@@ -6,15 +6,15 @@ This Project is build using **machine learning**  in **python** using VS Code.
 To use the Emotion Based Music player, you will need to have Python and all the libraries to run the project. You can install library using pip:
 You Have to install the following libraries :
 
-**pip install keras,**
+**pip install keras**
 
-**pip install cv2,**
+**pip install cv2**
 
-**pip install numpy,**
+**pip install numpy**
 
-**pip install cProfile,**
+**pip install cProfile**
 
-**pip install random .**
+**pip install random **
 
 
 ## Usage
