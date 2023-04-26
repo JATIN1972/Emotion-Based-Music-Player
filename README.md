@@ -1,4 +1,4 @@
-## Packet Sniffer
+## Emotion Based Music Player
 An Emotion Based Music player is a project is which the webcame captures the human emotion i.e **(Happy, Sad, Neutral, Angry)**, and according to the mood captured in the webcam, that song will be played.
 ## Project Introduction
 This Project is build using **machine learning**  in **python** using VS Code. 
