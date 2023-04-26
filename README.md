@@ -14,7 +14,7 @@ You Have to install the following libraries :
 
 **pip install cProfile**
 
-**pip install random **
+**pip install random**
 
 
 ## Usage
