@@ -20,7 +20,7 @@ You Have to install the following libraries :
 ## Usage
 To start the Emotion Based Music Player, simply run the code with Python:
 
-**aa.py**
+**Emotion Based Music Player.py**
 
 The Emotion Based Music player will capture an emotion and a square box will be created in which the current emotion is displayed. You have to press **Q** to capture the image .
 
